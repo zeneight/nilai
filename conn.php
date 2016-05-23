@@ -1,5 +1,5 @@
 <?php
-include('mysql2i.class.php');
+require_once('mysql2i.class.php');
 
 $host="localhost";
 $user="root";
